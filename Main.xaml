@@ -714,7 +714,7 @@
                                               </InArgument>
                                             </Assign.Value>
                                           </Assign>
-                                          <Assign sap:VirtualizedContainerService.HintSize="262,60" sap2010:WorkflowViewState.IdRef="Assign_11">
+                                          <Assign DisplayName="Check affiliates" sap:VirtualizedContainerService.HintSize="262,60" sap2010:WorkflowViewState.IdRef="Assign_11">
                                             <Assign.To>
                                               <OutArgument x:TypeArguments="x:String">
                                                 <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_33">tempTest</mca:CSharpReference>
@@ -726,7 +726,7 @@
                                               </InArgument>
                                             </Assign.Value>
                                           </Assign>
-                                          <Assign sap:VirtualizedContainerService.HintSize="262,60" sap2010:WorkflowViewState.IdRef="Assign_12">
+                                          <Assign DisplayName="Check email" sap:VirtualizedContainerService.HintSize="262,60" sap2010:WorkflowViewState.IdRef="Assign_12">
                                             <Assign.To>
                                               <OutArgument x:TypeArguments="x:String">
                                                 <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_34">tempTest</mca:CSharpReference>
@@ -738,7 +738,7 @@
                                               </InArgument>
                                             </Assign.Value>
                                           </Assign>
-                                          <Assign sap:VirtualizedContainerService.HintSize="262,60" sap2010:WorkflowViewState.IdRef="Assign_13">
+                                          <Assign DisplayName="Check abstract" sap:VirtualizedContainerService.HintSize="262,60" sap2010:WorkflowViewState.IdRef="Assign_13">
                                             <Assign.To>
                                               <OutArgument x:TypeArguments="x:String">
                                                 <mca:CSharpReference x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpReference`1_35">tempTest</mca:CSharpReference>
